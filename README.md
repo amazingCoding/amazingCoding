@@ -6,3 +6,6 @@
 * react-native File Downloader:[File Downloader](https://github.com/amazingCoding/react-native-download)
 * react-native Signing board:[Signing board](https://github.com/amazingCoding/react-native-signature-board)
 * react-native-slide-areas-module Android status bar, navigation bar style modification:[Link](https://github.com/amazingCoding/react-native-slide-areas-module)
+
+## use Flutter
+* flutter-scan-qr：[flutter-scan-qr](https://github.com/amazingCoding/flutter-scan-qr)
