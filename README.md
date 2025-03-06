@@ -10,3 +10,4 @@
 
 ## use Flutter
 * flutter-scan-qr：[flutter-scan-qr](https://github.com/amazingCoding/flutter-scan-qr)
+* flutter-back-to-phone-home：[flutter-back-to-phone-home](https://github.com/amazingCoding/flutter-back-to-phone-home)
